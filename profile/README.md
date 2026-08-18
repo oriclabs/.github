@@ -40,6 +40,17 @@ BioLang is under active development. Its practical workflows keep executable
 examples, measurements, and independent reference comparisons outside the core
 language repository so results can be examined and reproduced.
 
+## Browser and research tools
+
+- [**BioPeek**](https://lang.bio/viewer.html) — inspect common biological data
+  formats locally in the browser.
+- [**BioGist**](https://lang.bio/biogist.html) — extract useful summaries from
+  biological research documents.
+- [**BioKhoj**](https://lang.bio/biokhoj/) — search and discover biological
+  datasets and research resources.
+- [**Ibid**](https://ibid.tools) — collect and format citations privately, with
+  browser-side Rust/WebAssembly processing and no telemetry.
+
 ## Start here
 
 - Try BioLang in the browser at [lang.bio](https://lang.bio).
