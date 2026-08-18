@@ -40,19 +40,6 @@ BioLang is under active development. Its practical workflows keep executable
 examples, measurements, and independent reference comparisons outside the core
 language repository so results can be examined and reproduced.
 
-## How we work
-
-- **Open and inspectable.** Source, limitations, and validation artefacts should
-  be available alongside technical claims.
-- **Reproducible by default.** Pin versions, record parameters, preserve
-  provenance, and compare outputs rather than relying on names alone.
-- **Useful before impressive.** Prefer clear tools and teachable workflows over
-  avoidable complexity.
-- **Private where possible.** Local and browser-side computation should remain
-  local unless a user explicitly chooses a network service.
-- **Clear licence boundaries.** Permissive core projects and copyleft
-  compatibility providers remain visibly separated.
-
 ## Start here
 
 - Try BioLang in the browser at [lang.bio](https://lang.bio).
@@ -63,4 +50,3 @@ language repository so results can be examined and reproduced.
 
 Contributions, careful bug reports, independent validation, and constructive
 technical discussion are welcome.
-
