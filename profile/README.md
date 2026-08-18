@@ -30,7 +30,7 @@ small, inspectable foundations that can grow into useful research systems.
 | Project | Purpose | Licence |
 |---|---|---|
 | [BioLang](https://github.com/oriclabs/biolang) | An experimental, pipe-first language and toolkit for biological computing and bioinformatics. | MIT |
-| [BioLang Workflows](https://github.com/oriclabs/biolang-workflows) | Practical books, courses, notebooks, reproducible workflows, benchmarks, and independent validation. | MIT |
+| [BioLang Workflows](https://github.com/oriclabs/biolang-workflows) | Practical courses, notebooks, reproducible workflows, benchmarks, and independent validation. | MIT |
 | [BioLang Website](https://github.com/oriclabs/biolang-website) | Documentation and browser-based learning tools published at [lang.bio](https://lang.bio). | MIT |
 | [Ibid](https://github.com/oriclabs/ibid) | A privacy-first citation manager with a Rust/WASM engine and no telemetry. | MIT |
 | [SCTransform RS](https://github.com/oriclabs/sctransform-rs) | A standalone Rust implementation and process provider for SCTransform compatibility. | GPL-3.0 |
