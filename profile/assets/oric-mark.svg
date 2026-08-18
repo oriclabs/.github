@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title description">
+  <title id="title">ORIC Labs</title>
+  <desc id="description">Concentric saffron rings and nodes radiating from an origin</desc>
+  <defs>
+    <linearGradient id="saffron" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFAA4D"/>
+      <stop offset="100%" stop-color="#E68A2E"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF9933" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#FF9933" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="#0a0a0f"/>
+  <circle cx="256" cy="256" r="220" fill="url(#glow)"/>
+  <g stroke="#FF9933" stroke-opacity="0.35" stroke-width="6">
+    <line x1="256" y1="256" x2="256" y2="60"/>
+    <line x1="256" y1="256" x2="256" y2="452"/>
+    <line x1="256" y1="256" x2="60" y2="256"/>
+    <line x1="256" y1="256" x2="452" y2="256"/>
+  </g>
+  <g stroke="#FF9933" stroke-opacity="0.25" stroke-width="5">
+    <line x1="256" y1="256" x2="117" y2="117"/>
+    <line x1="256" y1="256" x2="395" y2="117"/>
+    <line x1="256" y1="256" x2="117" y2="395"/>
+    <line x1="256" y1="256" x2="395" y2="395"/>
+  </g>
+  <circle cx="256" cy="256" r="180" fill="none" stroke="#FF9933" stroke-opacity="0.5" stroke-width="5"/>
+  <circle cx="256" cy="256" r="115" fill="none" stroke="#FF9933" stroke-opacity="0.6" stroke-width="6"/>
+  <circle cx="256" cy="256" r="55" fill="none" stroke="#FF9933" stroke-opacity="0.7" stroke-width="6"/>
+  <g fill="url(#saffron)">
+    <circle cx="256" cy="76" r="18"/>
+    <circle cx="256" cy="436" r="18"/>
+    <circle cx="76" cy="256" r="18"/>
+    <circle cx="436" cy="256" r="18"/>
+  </g>
+  <g fill="#FF9933" opacity="0.85">
+    <circle cx="175" cy="175" r="14"/>
+    <circle cx="337" cy="175" r="14"/>
+    <circle cx="175" cy="337" r="14"/>
+    <circle cx="337" cy="337" r="14"/>
+  </g>
+  <circle cx="256" cy="256" r="32" fill="url(#saffron)"/>
+  <circle cx="256" cy="256" r="16" fill="#0a0a0f"/>
+  <circle cx="256" cy="256" r="8" fill="#FF9933"/>
+</svg>
